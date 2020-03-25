@@ -169,7 +169,7 @@ padding: 50px;
   }
   /* recent work ends */
   /* testimonials Start */
-.testimonials_wrapper{
+.testimonials wrapper{
     
     background: #f8f8f8;
 
@@ -177,7 +177,7 @@ padding: 50px;
     color:#777;
     
 }
-.testimonials_wrapper h2{
+.testimonials wrapper h2{
     margin-top: 20px;
     padding-top: 20px;
 }
